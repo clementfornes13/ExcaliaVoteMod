@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "excaliavotemod",
+  "version": "${version}",
+  "name": "Excalia Vote Mod",
+  "description": "Affiche les informations de vote mensuelles depuis Excalia.fr",
+  "authors": [
+    "Clement FORNES"
+  ],
+  "contact": {
+    "homepage": "https://www.excalia.fr",
+    "sources": "https://github.com/clementfornes13/excaliavotemod"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.clementfornes.ExcaliaVoteMod"
+    ],
+    "client": [
+      "com.clementfornes.ExcaliaVoteModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "custom": {
+    "modmenu:api": true
+  }
+}

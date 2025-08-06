@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.clementfornes.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ExampleClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

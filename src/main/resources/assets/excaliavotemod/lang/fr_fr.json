@@ -1,0 +1,10 @@
+{
+    "key.categories.excaliavotemod": "Excalia Vote Mod",
+    "key.excaliavotemod.toggle_hud": "Afficher/Masquer HUD de vote",
+    "key.excaliavotemod.increase_hud": "Augmenter la taille du HUD",
+    "key.excaliavotemod.decrease_hud": "Réduire la taille du HUD",
+    "key.excaliavotemod.cycle_style": "Changer le style du HUD",
+    "key.excaliavotemod.cycle_anchor": "Changer la position du HUD",
+    "key.excaliavotemod.open_config": "Ouvrir la configuration du mod",
+    "key.excaliavotemod.reset_config": "Réinitialiser la configuration"
+}

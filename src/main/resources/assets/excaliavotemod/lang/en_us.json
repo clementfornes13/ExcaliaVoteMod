@@ -1,0 +1,10 @@
+{
+    "key.categories.excaliavotemod": "Excalia Vote Mod",
+    "key.excaliavotemod.toggle_hud": "Toggle Vote HUD",
+    "key.excaliavotemod.increase_hud": "Increase HUD Size",
+    "key.excaliavotemod.decrease_hud": "Decrease HUD Size",
+    "key.excaliavotemod.cycle_style": "Cycle HUD Style",
+    "key.excaliavotemod.cycle_anchor": "Cycle HUD Position",
+    "key.excaliavotemod.open_config": "Open Mod Configuration",
+    "key.excaliavotemod.reset_config": "Reset Configuration"
+}
